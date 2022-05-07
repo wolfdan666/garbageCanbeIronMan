@@ -53,6 +53,18 @@ garbageCanbeIronMan
 #### 系统设计
 https://github.com/donnemartin/system-design-primer/blob/master/README-zh-Hans.md
 
+#### advance-go
+https://chai2010.cn/advanced-go-programming-book/
+
+2022年5月7日 看到中间件的地方的时候，然后又浏览了一下项目的代码，发现自己暂时有点hold不住这些高级使用了
+
+所以重新去看golang基础(go语言圣经)，加固一下基础，并且这次要配合上demo练习
+
+算是第3次学习golang基础，但这次必须demo全力练习
+
+##### go语言圣经
+https://books.studygolang.com/gopl-zh/
+
 ### 激励系统
 1. 欢乐的放松游戏，b站，youtube，冥想时间 (2个自信币)
 2. 一场电影 (14个自信币)
@@ -60,6 +72,13 @@ https://github.com/donnemartin/system-design-primer/blob/master/README-zh-Hans.m
 4. 一次下馆子 (看价格决定是5星还是6星) (21个自信币)
 5. 一个喜欢的电子产品 (看价格类比6星或者限定6星干员) (80个自信币)
 6. 一次旅游 (类比限定6星干员) (360个自信币)
+
+## 文件命名方式修改
+2022年5月7日 原来每日文件的命名为月的日期，但是这样需要找相关的修仙内容只能通过如下2种方式
+1. `git log | grep {what your want}`
+2. 文件内容的全局搜索
+
+所以以后的文件名格式改为`日-当日内容摘要`，从而让寻找内容更加便利
 
 # contribution
 欢迎大家评论,pr,修正,建议
