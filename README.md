@@ -49,6 +49,9 @@ garbageCanbeIronMan
 ### 主线任务
 #### 第一章: MIT6.824
 
+#### mysql，redis学习
+熟练Mysql和redis是大部分程序员必备的技术，要做一个完整产品必备的技术之一，所以后面修仙的时候要去学
+
 ### 支线任务(活动任务)
 #### 系统设计
 https://github.com/donnemartin/system-design-primer/blob/master/README-zh-Hans.md
@@ -64,6 +67,13 @@ https://chai2010.cn/advanced-go-programming-book/
 
 ##### go语言圣经
 https://books.studygolang.com/gopl-zh/
+
+##### workWithGo
+https://mkaz.blog/working-with-go/hello-world/
+
+https://github.com/mkaz/working-with-go
+
+已经学完 2022年05月14日15:42:04 
 
 ### 激励系统
 1. 欢乐的放松游戏，b站，youtube，冥想时间 (2个自信币)
