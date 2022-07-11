@@ -120,6 +120,8 @@ Volker
 
 后续更新: 第二天去看stackoverflow，发现这个提问被upvote了一下，加了10点声誉，然后问题被系统关闭了，但是自己却因为这个upvote获得的10点声誉，达到了17点声誉，从而获得了vote的权利!绝了，没想到啊!然后看到自己以前的answer被别人upvote并且comment说有趣的绕行解决方案，我感觉很开心。以后多玩玩stackoverflow，这是一个好平台，管理得很细致，nice的
 
+2022年7月11日15:57:55 发现post被删了，然后回到了11点...
+
 ## go语言圣经
 60分钟, 下次: https://flydk.gitbooks.io/go/content/ch10/ch10-07.html 10.7.4. 包文档
 ### 包匿名导入
