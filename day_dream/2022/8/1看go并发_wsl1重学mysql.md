@@ -152,7 +152,7 @@ sudo apt-get install libmysqlclient-dev
 然后没有指定目录`/usr/local/mysql/bin`，而是把执行文件分散到了`/usr/bin`和`/usr/sbin`下面了，没有mysql.server
 
 ### 启动mysqld出问题
-启动说没有管道`/var/run/mysqld`，那就创建一个这个目录
+启动说没有管道`/var/run/mysqld`，那就创建一个这个目录，但是还是起不来...所以wsl有大病...还是用自己的服务器吧，正好服务器的CPU和内存资源常年空闲95%...
 
 ```bash
  ✘ ⚡ 08/1|20:09:59  learn  mysqld_safe
