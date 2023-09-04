@@ -1,5 +1,5 @@
 ### 自信币
-587.5
+585.5
 
 ### Work-related-silver coin
 29
