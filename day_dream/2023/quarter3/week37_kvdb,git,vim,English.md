@@ -1,6 +1,6 @@
 # 9.11
 5.5hours git
-1hour reading
+1hour English
 0.5hour 搞机
 0.5hour reading
 
